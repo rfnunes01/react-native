@@ -6,4 +6,5 @@
 
 <ul>
   <li><a target="_blank" href="https://github.com/rfnunes01/recebendo-dados">Recebendo Dados</a></li>
+  <li><a target="_blank" href="https://github.com/rfnunes01/cronometro">Cronômetro</a></li>
 </ul>
